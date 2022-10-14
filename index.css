@@ -34,6 +34,6 @@ button.hover {
     background-color: red;
 }
 
-.btn-div {
-    
+.container {
+    max-width: 600px;
 }
